@@ -14,7 +14,7 @@
   
 4. Na linha **"ZSH_THEME"** selecione seu tema, ex:
 
-ZSH_THEME="agnoster"  # Gosto do fino
+ZSH_THEME="fino"
 
 [Link com alguns temas](https://github.com/ohmyzsh/ohmyzsh/wiki/themes)
 
@@ -26,10 +26,10 @@ Referências:
 
 Antes de remover o ZSH torne o bash como padrão:
 	
-  ```$ chsh -s /bin/bash```
+```$ chsh -s /bin/bash```
 
 Removendo o Zsh:
   
-	```# sudo apt-get --purge remove zsh```
+```# sudo apt-get --purge remove zsh```
 
 [Fonte](https://askubuntu.com/questions/958120/remove-zsh-from-ubuntu-16-04)
